@@ -76,4 +76,5 @@ c. o valor a ser pago com desconto de 15%.
 mostre essa temperatura em Fahrenheit. Sabe-se que
 𝐹 =9 × 𝐶
 _________ + 32
+
     5
