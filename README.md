@@ -74,6 +74,7 @@ b. o valor a ser pago por essa residência;
 c. o valor a ser pago com desconto de 15%.
 15. Faça um programa que receba uma temperatura em Celsius, calcule e
 mostre essa temperatura em Fahrenheit. Sabe-se que
+
 𝐹 =9 × 𝐶
 _________ + 32
 
