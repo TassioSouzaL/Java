@@ -77,4 +77,4 @@ mostre essa temperatura em Fahrenheit. Sabe-se que
 
 𝐹 =9 × 𝐶
 _________ + 32
-      5
+   5
